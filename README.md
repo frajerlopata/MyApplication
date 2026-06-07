@@ -15,4 +15,4 @@ Aplikacja Android wykonana w Java.
 
 ## Autor
 
-Imię Nazwisko
+Oskar Hebda
